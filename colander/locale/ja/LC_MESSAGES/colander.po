@@ -1,14 +1,14 @@
 # Japanese translations for colander.
 # Copyright (C) 2012 ORGANIZATION
 # This file is distributed under the same license as the colander project.
-# OCHIAI, Gouji <gjo.ext@gmail.com>, 2012.
+# OCHIAI, Gouji <gjo.ext@gmail.com>, 2012-2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: colander 0.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2013-01-04 19:56+0900\n"
-"PO-Revision-Date: 2012-03-28 01:12+0900\n"
+"PO-Revision-Date: 2013-01-04 20:05+0900\n"
 "Last-Translator: OCHIAI, Gouji <gjo.ext@gmail.com>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0\n"
@@ -68,10 +68,8 @@ msgid ""
 msgstr "\"${val}\" の要素数が正しくありません (${exp} 個のはずが ${was} 個)"
 
 #: colander/__init__.py:761
-#, fuzzy
-#| msgid "\"${val}\" is not iterable"
 msgid "${cstruct} is not iterable"
-msgstr "\"${val}\" は iterable でなければなりません"
+msgstr "${cstruct} は iterable でなければなりません"
 
 #: colander/__init__.py:1031
 msgid "${val} cannot be serialized: ${err}"
